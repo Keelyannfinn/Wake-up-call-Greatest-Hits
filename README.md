@@ -14,6 +14,6 @@ There are four songs attached under INSERT FOLDER. These are my Final four coded
 3. Shape of you
 4. Blinding Lights
 
-Within this folder there is additional **information** as well as past versions. 
+Within this folder there is additional **Tunepad songs/Info** as well as past versions. 
 
 To further understand the project, watch my **Video walkthrough**
