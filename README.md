@@ -25,7 +25,7 @@ To further understand the project;
 2. Ensure that when listening to my alarm codes, the volume levels are correct (see below)
 
 Track Volume - As It Was 
-https://github.com/Keelyannfinn/Wake-up-call-Greatest-Hits/blob/651166642403f29053486cd81c887f92888e310d/Images/AIW%20TRACK%20LEVELS.png
+Images/AIW TRACK LEVELS.png
 
 Track Volume - Shape of You
 
