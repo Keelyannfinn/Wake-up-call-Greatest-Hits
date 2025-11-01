@@ -7,7 +7,7 @@ This project is a response to the very common and often overlooked issue that ma
 
 These coded musical alarms focus on the idea that music is a stimulant to the brain. They are a series of morning alarm sounds that mimic generational hits. In the hopes of benefiting people who struggle to wake up to generic alarm sounds. 
 
-My coded alarm songs take on my own rendition, cut down to capture the catchy, most known melodies. While the main melody sounds like the original, I created the backup/supporting sounds myself to what I felt best suited the melody and function as an alarm sound, hence why the renditions sound different from the originals. 
+My coded alarm songs take on my own rendition, cut down to capture the catchy, most known melodies. While the main melody sounds like the original, I created the backup/supporting sounds myself learning and drawing from the referenced academic readings and resources to create what I felt best suited the melody and function as an alarm sound, hence why the renditions sound different from the originals. 
 
 **Instructions**: 
 There are four songs attached under INSERT FOLDER. These are my final four coded songs following four generational hits
@@ -16,7 +16,7 @@ There are four songs attached under INSERT FOLDER. These are my final four coded
 3. You Belong With Me
 4. Blinding Lights
 
-Within this folder, there is additional **Tunepad songs/Info** as well as past versions. 
+Within this folder, there is additional **Public View Links ** in case neccessary, as well as **past versions**. 
 
 To further understand the project; 
 
