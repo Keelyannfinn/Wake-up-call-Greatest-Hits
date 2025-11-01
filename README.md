@@ -16,7 +16,7 @@ There are four songs attached under **[Final Prototype](https://github.com/Keely
 3. You Belong With Me
 4. Blinding Lights
 
-Within this folder, there is additional **Public View Links ** in case neccessary, as well as **past versions**. 
+Within this folder, there is additional **[Public View Links](https://github.com/Keelyannfinn/Wake-up-call-Greatest-Hits/blob/e3e40d3c1352a8dd819d58c681de50c1963642f2/Tunepad%20songs/Public%20View%20Links%20-%20Final%20Prototype)** in case neccessary, as well as **past versions**. 
 
 To further understand the project; 
 
