@@ -10,7 +10,7 @@ These coded musical alarms focus on the idea that music is a stimulant to the br
 My coded alarm songs take on my own rendition, cut down to capture the catchy, most known melodies. While the main melody sounds like the original, I created the backup/supporting sounds myself learning and drawing from the referenced academic readings and resources to create what I felt best suited the melody and function as an alarm sound, hence why the renditions sound different from the originals. 
 
 **Instructions**: 
-There are four songs attached under INSERT FOLDER. These are my final four coded songs following four generational hits
+There are four songs attached under **[Final Prototype](https://github.com/Keelyannfinn/Wake-up-call-Greatest-Hits/blob/1ccfee9b8d9019164a2b42c74f1f0f61c081470d/Tunepad%20songs/Tunepad%20Prototype%20Final)**. These are my final four coded songs following four generational hits
 1. As It Was
 2. Shape of You
 3. You Belong With Me
