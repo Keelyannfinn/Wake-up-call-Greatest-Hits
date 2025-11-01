@@ -12,12 +12,29 @@ My coded alarm songs take on my own rendition, cut down to capture the catchy, m
 **Instructions**: 
 There are four songs attached under INSERT FOLDER. These are my final four coded songs following four generational hits
 1. As It Was
-2. You Belong With Me
-3. Shape of You
+2. Shape of You
+3. You Belong With Me
 4. Blinding Lights
 
 Within this folder, there is additional **Tunepad songs/Info** as well as past versions. 
 
-To further understand the project, watch my **Video walkthrough**
+To further understand the project; 
+
+1. Watch my **Video walkthrough**
+
+2. Ensure that when listening to my alarm codes, the volume levels are correct (see below)
+
+Track Volume - As It Was 
+
+Track Volume - Shape of You
+
+Track Volume - You Belong With Me 
+[Images/YBWM TRACK LEVEL.png
+](https://github.com/Keelyannfinn/Wake-up-call-Greatest-Hits/blob/5e1050e56baa0923063d71c7aa1fc5edc4b41110/Images/YBWM%20TRACK%20LEVEL.png)
+
+Track Volume - Blinding Lights
+
+
+
 
 Thank you!
