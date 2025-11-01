@@ -20,7 +20,7 @@ Within this folder, there is additional **Public View Links ** in case neccessar
 
 To further understand the project; 
 
-1. Watch my **Walkthrough Video.mp4**
+1. Watch my **[Walkthrough Video.mp4](https://github.com/Keelyannfinn/Wake-up-call-Greatest-Hits/blob/1ccfee9b8d9019164a2b42c74f1f0f61c081470d/Walkthrough%20Video.mp4)**
 
 2. Ensure that when listening to my alarm codes, the volume levels are correct (see below)
 
